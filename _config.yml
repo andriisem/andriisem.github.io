@@ -1,3 +1,2 @@
-title: Andrii Semko
-email: semko.andrey.i@gmail.com
-github_username:  andriisem
+plugins:
+  - jekyll-seo-tag
