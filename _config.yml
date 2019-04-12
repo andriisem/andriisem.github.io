@@ -77,7 +77,7 @@ analytics:
 author:
   name             : "Andrii Semko"
   avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Python Developer"
+  bio              : "Software Development Engineer"
   location         : "Kyiv, UA"
   email            : "semko.andrey.i@gmail.com"
   links:
