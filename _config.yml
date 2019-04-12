@@ -10,6 +10,7 @@ description              : "A place"
 url                      : "https://andriisem.github.io/"
 repository               : "andriisem/andriisem.github.io"
 words_per_minute         : 200
+author_profile: true
 
 reCaptcha:
   siteKey                :
