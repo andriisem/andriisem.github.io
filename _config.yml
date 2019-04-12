@@ -17,17 +17,30 @@ analytics:
 
 
 author:
-  name: "Andrii Semko"
-  bio: "Python Developer"
-  location: "Kyiv, UA"
-  email: "semko.andrey.i@gmail.com"
+  name             : "Johnathon Selstad"
+  avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Hobbyist Geometer, professional AR/VR and Computer Vision Engineer"
+  location         : "San Francisco, CA"
+  email            : "makeshifted@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:semko.andrey.i@gmail.com
+      #url: mailto:makeshifted@gmail.com
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/JohnSelstad"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/andriisem"
+      url: "https://github.com/zalo"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
 
 footer:
   links:
