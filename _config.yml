@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andrii Semko"
+title                    : "Personal Blog | Andrii Semko"
 title_separator          : "-"
-name                     : "Andrii Semko"
+name                     : "Personal Blog"
 description              : "I am Software Development Engineer capable of tackling your automation, analysis, and computing needs."
 url                      : "https://andriisem.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
