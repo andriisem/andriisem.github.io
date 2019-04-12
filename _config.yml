@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "Andrii Semko"
 title_separator          : "-"
-name                     : "Andrii Semko"
+name                     : "/"
 description              : "Python Developer"
 url                      : "https://andriisem.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
