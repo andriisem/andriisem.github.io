@@ -16,32 +16,18 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sublucid Geometry"
+title                    : "Andrii Semko"
 title_separator          : "-"
-name                     : "Johnathon Selstad"
-description              : "A place for uncommon knowledge"
-url                      : "https://zalo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Andrii Semko"
+description              : "Python Developer"
+url                      : "https://andriisem.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "zalo/zalo.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "andriisem/andriisem.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-comments:
-  provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
-  disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-  utterances:
-    theme                : # "github-light" (default), "github-dark"
-    issue_term           : # "pathname" (default)
 
 reCaptcha:
   siteKey                :
@@ -57,17 +43,17 @@ algolia:
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 google:
-  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
-  instant_search         : # false (default), true
+  search_engine_id       : 016732380875250055083:px-6ucuu6xe
+  instant_search         : true # false (default), true
 # SEO Related
-google_site_verification : "MaNtiIDsV-ZW6yzHiE_jb3pSoNcm7VbVakB8fNmo8JA"
+google_site_verification : "NvGKP5LCQSoLE4bhQ_aIOHpbVpdMncAinrG2j0je2Vo"
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "JohnSelstad"
+  username               : "_andreysem"
 facebook:
   username               :
   app_id                 :
@@ -90,43 +76,43 @@ analytics:
 
 # Site Author
 author:
-  name             : "Johnathon Selstad"
+  name             : "Andrii Semko"
   avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hobbyist Geometer, professional AR/VR and Computer Vision Engineer"
-  location         : "San Francisco, CA"
-  email            : "makeshifted@gmail.com"
+  bio              : "Python Developer"
+  location         : "Kyiv, UA"
+  email            : "semko.andrey.i@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: mailto:makeshifted@gmail.com
+      url: mailto:semko.andrey.i@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/JohnSelstad"
+      url: "https://twitter.com/_andreysem"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/zalo"
+      url: "https://github.com/andriisem"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+       url: "https://instagram.com/andriisem"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/JohnSelstad"
+      url: "https://twitter.com/_andreysem"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/zalo"
+      url: "https://github.com/andriisem"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
