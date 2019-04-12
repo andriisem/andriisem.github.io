@@ -2,7 +2,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 minimal_mistakes_skin    : "contrast"
 
 
-c                   : "en-US"
+locale                   : "en-US"
 title                    : "Andrii Semko"
 title_separator          : "-"
 name                     : "Andrii Semko"
