@@ -9,6 +9,13 @@ name                     : "Andrii Semko"
 description              : "A place"
 url                      : "https://andriisem.github.io/"
 
+
+analytics:
+  provider               : google
+  google:
+    tracking_id          : UA-137972101-1
+
+
 author:
   name: "Andrii Semko"
   bio: "Python Developer"
