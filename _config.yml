@@ -68,11 +68,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : true # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-137972101-1
     anonymize_ip         : # true, false (default)
-
 
 # Site Author
 author:
