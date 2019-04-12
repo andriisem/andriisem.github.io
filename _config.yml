@@ -66,13 +66,3 @@ footer:
 plugins:
   - jekyll-include-cache
 
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: false
-      comments: true
-      share: false
