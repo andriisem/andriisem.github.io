@@ -1,3 +1,16 @@
 plugins:
-    - jekyll-include-cache
+  - jekyll-include-cache
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
+
+author:
+  name: "Andrii Semko"
+  bio: "Python Developer"
+  location: "Kyiv, UA"
+  email: "semko.andrey.i@gmail.com"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:semko.andrey.i@gmail.com
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/andriisem"
