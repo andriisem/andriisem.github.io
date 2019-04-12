@@ -84,7 +84,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:semko.andrey.i@gmail.com
+#      url: mailto:semko.andrey.i@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
