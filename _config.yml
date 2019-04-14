@@ -54,7 +54,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "_andreysem"
+  username               : "_andriisem"
 facebook:
   username               : "andriisem1"
   app_id                 :
@@ -101,7 +101,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/_andreysem"
+      url: "https://twitter.com/_andriisem"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
