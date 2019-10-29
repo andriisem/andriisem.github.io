@@ -86,7 +86,7 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Patreon"
-      icon: "fa fa-patreon"
+      icon: "fab fa-patreon"
       url: "https://www.patreon.com/andriisem"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
