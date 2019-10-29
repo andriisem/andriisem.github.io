@@ -88,6 +88,9 @@ author:
     - label: "Patreon"
       icon: "fab fa-patreon"
       url: "https://www.patreon.com/andriisem"
+    - label: "UpWork"
+      icon: "fa fa-briefcase"
+      url: "https://www.upwork.com/freelancers/~013175f63de76dd835"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/_andriisem"
@@ -100,9 +103,7 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/andrii-semko-09455a100/"
-    - label: "UpWork"
-      icon: "fa fa-briefcase"
-      url: "https://www.upwork.com/freelancers/~013175f63de76dd835"
+    
 
 
 # Site Footer
