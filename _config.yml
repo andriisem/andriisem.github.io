@@ -53,8 +53,6 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-patreon:
-  username:              : "andriisem"
 twitter:
   username               : "_andriisem"
 facebook:
@@ -87,6 +85,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
+    - label: "Patreon"
+      icon: "fab fa-fw fa-patreon-square"
+      url: "https://www.patreon.com/andriisem"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/_andriisem"
