@@ -53,6 +53,8 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
+patreon:
+  username:              : "andriisem"
 twitter:
   username               : "_andriisem"
 facebook:
