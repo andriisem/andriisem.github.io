@@ -97,6 +97,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/andriisem"
+    - label: "UpWork"
+      icon: "fab fa-fw fa-briefcase-square"
+      url: "https://www.upwork.com/freelancers/~013175f63de76dd835"
 
 
 # Site Footer
