@@ -86,7 +86,7 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Patreon"
-      icon: "fab fa-fw fa-patreon-square"
+      icon: "fa fa-patreon"
       url: "https://www.patreon.com/andriisem"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -98,7 +98,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/andriisem"
     - label: "UpWork"
-      icon: "fab fa-fw fa-briefcase-square"
+      icon: "fa fa-briefcase"
       url: "https://www.upwork.com/freelancers/~013175f63de76dd835"
 
 
