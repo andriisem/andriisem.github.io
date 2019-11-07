@@ -1,5 +1,5 @@
-# Descriptions
-A tool for all your backups
+Keep your Odoo data safe with this module. Take automated back-ups, remove them automatically. You can even specify how long local backups and external backups should be kept, automatically
+
 # Installation
 Before installing this module, you need to execute:
 
