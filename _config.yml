@@ -142,6 +142,8 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+include: [_pages]
+
 pagination:
   enabled: true
   per_page: 6
@@ -149,7 +151,7 @@ pagination:
   indexpage: page-1
   permalink: page-:num
   extension: json
-  
+
 # Markdown Processing
 kramdown:
   input: GFM
