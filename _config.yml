@@ -142,7 +142,14 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
+pagination:
+  enabled: true
+  per_page: 6
+  sort_reverse: true
+  indexpage: page-1
+  permalink: page-:num
+  extension: json
+  
 # Markdown Processing
 kramdown:
   input: GFM
