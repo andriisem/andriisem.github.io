@@ -25,7 +25,7 @@ workers = 8
 
 ## Configure Nginx as a Reverse Proxy
 
-```$ sudo nano /etc/nginx/sites-enabled/odoo.example.com```
+```$ sudo vi /etc/nginx/sites-enabled/odoo.example.com```
 
 ```
 upstream odoo {
