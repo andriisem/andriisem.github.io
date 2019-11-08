@@ -16,3 +16,4 @@ Go to Settings -> Technical -> System Parameters to add:
 
 <!-- # Usage -->
 
+*[Download](https://apps.odoo.com/apps/modules/12.0/auto_backup_aws_s3/)*
