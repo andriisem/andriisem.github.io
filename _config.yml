@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andrii Semko"
+title                    : "Full-Stack Python & Odoo Developer"
 title_separator          : "-"
 name                     : "Personal Blog"
 description              : "From ERP to CRM, eCommerce and CMS. Download Odoo or use it in the cloud. Grow Your Business."
