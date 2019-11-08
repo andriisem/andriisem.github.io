@@ -239,11 +239,11 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: single
     values:
       layout: single
       author_profile: false
       read_time: false
       comments: true
-      share: false
-      related: false
+      share: true
+      related: true
