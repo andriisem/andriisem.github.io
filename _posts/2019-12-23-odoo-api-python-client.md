@@ -1,6 +1,5 @@
 Odoo is usually extended internally via modules, but many of its features and all of its data are also available from the outside for external analysis or integration with various tools.
 
-# Odoo API Client
 [![PyPI version](https://badge.fury.io/py/odooapiclient.svg)](https://badge.fury.io/py/odooapiclient)
 
 🐍 Python client library for Odoo External API
