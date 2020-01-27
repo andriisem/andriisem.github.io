@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Full-Stack Python & Odoo Developer"
+title                    : "Python Developer"
 title_separator          : "-"
 name                     : "Personal Blog"
 description              : "From ERP to CRM, eCommerce and CMS. Download Odoo or use it in the cloud. Grow Your Business."
@@ -85,9 +85,6 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Patreon"
-      icon: "fab fa-patreon"
-      url: "https://www.patreon.com/andriisem"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/_andriisem"
